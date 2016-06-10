@@ -22,7 +22,7 @@
     "test": "jasmine-node spec/*Spec.js"
   },
   "dependencies": {
-    "java": "0.6.0"
+    "java": "0.7.2"
   },
   "repository": {
     "type": "git",
